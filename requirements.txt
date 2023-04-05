@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+tortoise-orm
+tortoise-orm[asyncmy]
+python-dotenv
+aiomysql
+passlib
+python-multipart
+pyjwt
