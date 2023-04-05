@@ -7,3 +7,4 @@ aiomysql
 passlib
 python-multipart
 pyjwt
+pydantic
