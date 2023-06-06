@@ -1,4 +1,4 @@
-# Flowih MVC API
+# FastAPI MVC API with JWT auth
 
 ## Table of Contents
 
